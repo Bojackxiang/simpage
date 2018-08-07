@@ -8,5 +8,7 @@
     .header {
         background: url('../../assets/banner-m.PNG');
         background-size:100%;
+        height: 700px;
+        background-repeat: no-repeat;
     }
 }
